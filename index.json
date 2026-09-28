@@ -1,0 +1,11 @@
+{
+  "org": "asimov-modules",
+  "repo": "asimov-serpapi-module",
+  "versions": [
+    {
+      "commit": "c6a936e7a00a63e711ab711819ed7eaf8240d17b",
+      "tag": "0.1.4",
+      "parsed_at": "2026-09-28T07:15:10.834651+00:00"
+    }
+  ]
+}
